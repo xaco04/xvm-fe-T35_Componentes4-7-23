@@ -1,0 +1,8 @@
+<h1>Formulario Tareas</h1>
+<div>
+    <p>Titulo: <input type="text" [(ngModel)]="titulo"></p>
+    <p>Descripcion de la Tarea: <textarea name="" id="" cols="30" rows="10" [(ngModel)]="descripcion"></textarea></p>
+    <button (click)="agregartarea()">Agregar tarea</button>
+</div>
+
+<app-listatareas [data]="tareas"></app-listatareas>
