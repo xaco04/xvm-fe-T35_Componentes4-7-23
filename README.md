@@ -1,4 +1,4 @@
-# Problema4
+# Problema 4
 
 En esta tarea, crearás una aplicación de TODO LIst utilizando Angular. La aplicación constará de dos componentes principales: el componente 'ListaTareas' y el componente 'FormularioTarea'.
 El componente 'ListaTareas' mostrará una lista de tareas, donde cada tarea tendrá un título y una descripción. Inicialmente, la lista estará vacía. Este componente también tendrá la capacidad de marcar una tarea como completada, lo que cambiará su estilo visual.
